@@ -1,6 +1,6 @@
 <h1>Simple Maze Visualizer</h1>
 
-<caption>How to create a maze/caption>
+<caption>How to create a maze</caption>
 <ul>
   <li>Create nxn matrix</li>
   <li>0 represents walkable path</li>
